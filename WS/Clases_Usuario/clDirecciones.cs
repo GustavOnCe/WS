@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data;
 
-namespace PruebaDeClases.Clases
+namespace WS.Clases_Usuario
 {
     class clDirecciones
     {
