@@ -194,6 +194,8 @@
     <Compile Include="Clases_Conexion\clExcepciones.cs" />
     <Compile Include="Clases_Conexion\clRetornoOperacionBD.cs" />
     <Compile Include="Clases_Conexion\clXML.cs" />
+    <Compile Include="Clases_Usuario\clDirecciones.cs" />
+    <Compile Include="Clases_Usuario\clUsuario.cs" />
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
